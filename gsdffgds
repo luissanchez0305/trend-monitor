@@ -1,0 +1,77 @@
+[33mcommit 36bbcdf2881fbd17dcc57ef26b509d054a5b47dc[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/developer[m[33m)[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 07:24:20 2021 -0700
+
+    Create README.md
+
+[33mcommit d8ca559ae3145d059662152778ca25474587128c[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:54:36 2021 -0700
+
+    Delete .gitignore
+
+[33mcommit 4b244cf605f018c7f8e66a35201cd5a92eb6f09e[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:53:42 2021 -0700
+
+    Delete main.js
+
+[33mcommit cda4194e31d0b4657fc7ab60c50308b26dd4fcb0[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:52:24 2021 -0700
+
+    Delete HelloWorld.vue
+
+[33mcommit 295c25e8a9ec5ef008c593d4a605c96c8ea6db75[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:52:03 2021 -0700
+
+    Delete logo.png
+
+[33mcommit e896e707c396d719f7182af27bd9e76d0f3025c5[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:51:27 2021 -0700
+
+    Delete App.vue
+
+[33mcommit 1736d865606914fcd4b5d79d20cdfab3349920a7[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:51:08 2021 -0700
+
+    Delete index.html
+
+[33mcommit 08fe44b09cd3c89ea64bfa0d15e9b07647b12f0c[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:50:43 2021 -0700
+
+    Delete favicon.ico
+
+[33mcommit 38b0ed197fba678ad9ac403d14264f8cc2e9ab68[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:50:25 2021 -0700
+
+    Delete package.json
+
+[33mcommit f2cbe2cba1c8713e959518052192fbc3d6860779[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:50:05 2021 -0700
+
+    Delete package-lock.json
+
+[33mcommit 1a1604ddd8de97ef71ba8011294d22c819f2f0ec[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:49:42 2021 -0700
+
+    Delete babel.config.js
+
+[33mcommit fb810e58c38bbee5e7d95c0181b62b85ad02c356[m
+Author: Jignesh Ahir <38813055+jiguAhir@users.noreply.github.com>
+Date:   Fri Nov 5 00:49:08 2021 -0700
+
+    Delete README.md
+
+[33mcommit 957cb656966ef7b9e1927005c9b4cee3d73b1b01[m
+Author: Luis Ricardo Sanchez <luis.sanchez@esferasoluciones.com>
+Date:   Fri Oct 29 16:08:02 2021 -0500
+
+    init
