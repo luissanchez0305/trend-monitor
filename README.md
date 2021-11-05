@@ -1,6 +1,4 @@
 # trend-monitor
-<<<<<<< HEAD
-=======
 
 ## Project setup
 ```
@@ -24,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> b1a8c28 (Trading Chart en proyecto Vuejs)
